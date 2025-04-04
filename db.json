@@ -3,16 +3,58 @@
     {
       "id": 1001,
       "category": "secure",
-      "title": "Creative",
-      "details": "Installing a security system on a listed building was always going to be a challenge, especially on the outside. To help the cameras blend in with the building we colour matched them and the speakers to the walls and the end result was a great success.",
-      "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_02_large.png"
+      "title": "Ease",
+      "details": "One of our clients travels a lot and wanted to be able to view his CCTV wherever he was, whether he was at home, in the office or abroad. We provided this by installing an application on his iPad and configuring the network to allow him access from anywhere.",
+      "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_01_large.png"
     },
     {
       "id": 1002,
       "category": "secure",
-      "title": "Intuitive",
+      "title": "Control",
+      "details": "The brief of our client was that he wanted full control of the security system from single points in the property, including the front door. We achieved this by working with Sensory International to fully integrate the CCTV, Alarm and gate controls into the AV system, so that it can all be controlled with ease.",
+      "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_02_large.png"
+    },
+    {
+      "id": 1003,
+      "category": "secure",
+      "title": "Simple",
       "details": "Having several different fobs and tags for their system was a source of inconvenience for one client, so we integrated everything into one simple to use fob that controlled the gates, garage doors and CCTV systems.",
       "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_03_large.png"
+    },
+    {
+      "id": 1004,
+      "category": "secure",
+      "title": "Discreet",
+      "details": "When it came to installing a monitored CCTV system, our client wanted a practical and functional system without the camera being mounted on the house, or the typical eyesore of CCTV posts. Our solution was to install the posts in a manner that fitted in with their surroundings, which included installing them along the tree line, painting them black and using minimal equipment.",
+      "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_04_large.png"
+    },
+    {
+      "id": 1005,
+      "category": "secure",
+      "title": "Control",
+      "details": "From the very start our client was clear that everything in the house must match and look like it should belong, so when it came to installing the keypads we made sure that they were the same finish as the Lutron lighting controls.",
+      "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_05_large.png"
+    },
+    {
+      "id": 1006,
+      "category": "secure",
+      "title": "Perfection",
+      "details": "When working on a project with an interior designer, the final finish is the most important aspect. Therefore when it came to installing the motion sensors on the ceiling, we paid particular attention to their location to make sure the sensor lined up with the other items on the ceiling.",
+      "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_06_large.png"
+    },
+    {
+      "id": 1007,
+      "category": "secure",
+      "title": "Creative",
+      "details": "Installing a security system on a listed building was always going to be a challenge, especially on the outside. To help the cameras blend in with the building we colour matched them and the speakers to the walls and the end result was a great success.",
+      "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_07_large.png"
+    },
+    {
+      "id": 1008,
+      "category": "secure",
+      "title": "Finishing Touch",
+      "details": "Attention to detail is a top priority. When asked to paint the window sensors we happily do so in order to achieve a better end result.",
+      "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_08_large.png"
     }
   ]
 }
