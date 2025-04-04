@@ -1,4 +1,4 @@
-{
+y{
   "events": [
     {
       "id": 1001,
@@ -31,7 +31,7 @@
     {
       "id": 1005,
       "category": "secure",
-      "title": "Control",
+      "title": "Synergy",
       "details": "From the very start our client was clear that everything in the house must match and look like it should belong, so when it came to installing the keypads we made sure that they were the same finish as the Lutron lighting controls.",
       "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_05_large.png"
     },
