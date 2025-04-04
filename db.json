@@ -6,6 +6,13 @@
       "title": "Creative",
       "details": "Installing a security system on a listed building was always going to be a challenge, especially on the outside. To help the cameras blend in with the building we colour matched them and the speakers to the walls and the end result was a great success.",
       "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_02_large.png"
+    },
+    {
+      "id": 1002,
+      "category": "secure",
+      "title": "Intuitive",
+      "details": "Having several different fobs and tags for their system was a source of inconvenience for one client, so we integrated everything into one simple to use fob that controlled the gates, garage doors and CCTV systems.",
+      "image": "https://raw.githubusercontent.com/MatthewFowlerSI/vue-sandbox/main/images/secure/grid_03_large.png"
     }
   ]
 }
